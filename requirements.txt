@@ -1,7 +1,7 @@
 
 dj-database-url==0.5.0
-Django==2.2.28
-django-allauth==0.39.1
+Django==3.2.15
+django-allauth==0.41.0
 django-countries==5.3.3
 django-crispy-forms==1.7.2
 django-debug-toolbar==1.10.1
